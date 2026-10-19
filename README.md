@@ -1,10 +1,12 @@
-# Kelompok 6 — Kecerdasan Buatan
+# Artificial Intelligence — AI_TE01_06
+
+This repository was created as part of an assignment for the **Artificial Intelligence (Kecerdasan Buatan)** course.
 
 ## Team Members
 
 | Role | Name |
 |---|---|
-| Manager | Timothy |
+| Manager | Timothy Raney Yves Kaunang |
 | Developer 1 — Expert System | Tsabib Akdam Alkarny |
 | Developer 2 — Search Algorithm | Hosea Fransiskus Sinambela |
 
