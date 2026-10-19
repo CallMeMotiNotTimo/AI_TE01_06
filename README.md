@@ -1,3 +1,13 @@
+# Kelompok 6 — Kecerdasan Buatan
+
+## Team Members
+
+| Role | Name |
+|---|---|
+| Manager | Timothy |
+| Developer 1 — Expert System | Tsabib Akdam Alkarny |
+| Developer 2 — Search Algorithm | Hosea Fransiskus Sinambela |
+
 # :abacus: Algorithms and Data Structures
 
 This repository provides several classic algorithms and data structures in **Computer Science**, as well as some extra problems that are frequently encountered in programming challenges.
