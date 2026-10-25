@@ -86,13 +86,13 @@ Program ini menggunakan beberapa agent dengan tugas berbeda dalam satu alur. Pla
 2. Instal program:
 
 ```bash
-python -m pip install -e .
+$env:PYTHONPATH = "src"
 ```
 
 3. Jalankan demo:
 
 ```bash
-multi-agent-planner demo
+py -m multi_agent_planner.main demo
 ```
 
 ### Hasil Pengujian
