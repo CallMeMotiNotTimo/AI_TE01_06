@@ -57,13 +57,31 @@ Program berhasil dijalankan dengan memilih dua gejala, yaitu komputer berjalan l
 ## 2. Search Algorithm
 
 ### Deskripsi
-Bagian ini akan dilengkapi setelah program Search Algorithm diperiksa.
+Proyek ini merupakan implementasi algoritma pencarian sederhana menggunakan Python untuk menemukan teks yang paling relevan berdasarkan kata kunci (keyword) yang diberikan oleh pengguna.
+
+Algoritma ini menggunakan pencocokan kata, pemrosesan teks, dan sistem pembobotan skor relevansi untuk menentukan hasil pencarian terbaik dari sekumpulan data teks.
+
+Fungsi utama dalam proyek ini adalah element_finder(), yang menerima daftar teks dan kata kunci, kemudian mengembalikan salah satu teks dengan skor relevansi tertinggi.
 
 ### Algoritma yang Digunakan
-Menunggu konfirmasi dari kode sumber.
+element_finder()
 
 ### Cara Menjalankan
-Petunjuk penggunaan akan ditambahkan setelah program diuji.
+Buka terminal dan jalankan perintah berikut:
+
+python -m pip install nltk
+
+2. Unduh data stopword
+
+Jalankan perintah berikut:
+
+python -c "import nltk; nltk.download('stopwords')"
+
+3. Siapkan file program
+
+Simpan kode algoritma dalam file Python, misalnya:
+
+element_finder.py
 
 ### Hasil Pengujian
 Akan dilengkapi berdasarkan hasil pengujian program.
